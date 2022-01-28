@@ -15,7 +15,7 @@ app.get('/', function (req, res) {
 
 app.post('/api/fileanalyse', upload.single('upfile'), function (req, res) {
   var file = req.file;
-  res.json({name:file.filename, type: file.mimetype, size: file.size });  
+  res.json({name:file.originalname, type: file.mimetype, size: file.size });  
 });
 
 const port = process.env.PORT || 3000;

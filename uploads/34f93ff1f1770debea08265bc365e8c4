@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENTOS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA />
+      <SECTOR>000</SECTOR>
+      <VNUMDOC />
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>123123123</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO />
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA />
+      <SECTOR>000</SECTOR>
+      <VNUMDOC />
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>123123123</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO />
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA />
+      <SECTOR>000</SECTOR>
+      <VNUMDOC />
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>123123123</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO />
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA />
+      <SECTOR>000</SECTOR>
+      <VNUMDOC />
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>123123123</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO />
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA />
+      <SECTOR>000</SECTOR>
+      <VNUMDOC />
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>123123123</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO />
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>CCF</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>21-11-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>FT 08710652101010617</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>514195843</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV>155046 2021-11-21 17:21 0016 0065 0871</OBSERV>
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG>PD CORROIOS</LOCALCG>
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>211.92</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_ISENTO</ARTIGO>
+        <DESCR>Artigo isento de IVA</DESCR>
+        <PRUNIT>null</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>null</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_RED</ARTIGO>
+        <DESCR>Artigo IVA Reduzido</DESCR>
+        <PRUNIT>97.07</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>6</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_INT</ARTIGO>
+        <DESCR>Artigo IVA Intermédio</DESCR>
+        <PRUNIT>20.62</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>13</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_NOR</ARTIGO>
+        <DESCR>Artigo IVA Normal</DESCR>
+        <PRUNIT>69.70</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>23</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+    </LINHAS>
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>CCF</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>23-11-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>FT 04960012101010619</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>514195843</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV>343277 2021-11-23 16:44 0008 0001 0496</OBSERV>
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG>Matosinhos - Brito Cunha</LOCALCG>
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>212.53</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_ISENTO</ARTIGO>
+        <DESCR>Artigo isento de IVA</DESCR>
+        <PRUNIT>null</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>null</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_RED</ARTIGO>
+        <DESCR>Artigo IVA Reduzido</DESCR>
+        <PRUNIT>52.58</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>6</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_INT</ARTIGO>
+        <DESCR>Artigo IVA Intermédio</DESCR>
+        <PRUNIT>6.41</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>13</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_NOR</ARTIGO>
+        <DESCR>Artigo IVA Normal</DESCR>
+        <PRUNIT>121.59</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>23</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+    </LINHAS>
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>CCF</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>23-11-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>FT 06560042101010621</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>514195843</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV>153745 2021-11-23 15:56 0085 0004 0656</OBSERV>
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG>SINTRA</LOCALCG>
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>310.45</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_ISENTO</ARTIGO>
+        <DESCR>Artigo isento de IVA</DESCR>
+        <PRUNIT>null</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>null</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_RED</ARTIGO>
+        <DESCR>Artigo IVA Reduzido</DESCR>
+        <PRUNIT>79.78</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>6</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_INT</ARTIGO>
+        <DESCR>Artigo IVA Intermédio</DESCR>
+        <PRUNIT>5.44</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>13</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+      <LIN>
+        <TPLINHA />
+        <ARTIGO>ART_NOR</ARTIGO>
+        <DESCR>Artigo IVA Normal</DESCR>
+        <PRUNIT>178.64</PRUNIT>
+        <QUANT>1</QUANT>
+        <DESCONTO />
+        <IVA>23</IVA>
+        <ARMAZEM />
+        <UNIDADE />
+      </LIN>
+    </LINHAS>
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>03-12-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>29</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>219424977</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>470.40</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>03-12-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>30</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>239676564</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>1065.18</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>19-11-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>2</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>306785242</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>40.39</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+  <DOCUMENTO>
+    <ORIGEM>1</ORIGEM>
+    <CABECALHO>
+      <TPDOCUM>SRV01</TPDOCUM>
+      <SERIE>1</SERIE>
+      <DATA>03-12-2021</DATA>
+      <SECTOR>000</SECTOR>
+      <VNUMDOC>29</VNUMDOC>
+      <TERCEIRO>001</TERCEIRO>
+      <DESCCAB />
+      <RGIVA />
+      <MOEDA />
+      <IVAINC />
+      <DESCPP />
+      <PRAZOPGT />
+      <MODOPGT>1</MODOPGT>
+      <EXPEDIR />
+      <ONDEENV />
+      <ONDEENTR />
+      <NCONTRIB>219424977</NCONTRIB>
+      <ARREDIVA />
+      <OBSERV />
+      <GESCNT />
+      <PESOTOT />
+      <VOLTOT />
+      <LOCALCG />
+      <LOCALDSG />
+      <TRANSP />
+      <MEIOTRP />
+      <APROVADO />
+      <DATAAPRO />
+      <RESPAPRO />
+      <PROCESSO />
+      <EAN />
+      <TPPRECO>470.40</TPPRECO>
+      <ORIGEM>1</ORIGEM>
+    </CABECALHO>
+    <LINHAS />
+  </DOCUMENTO>
+</DOCUMENTOS>
